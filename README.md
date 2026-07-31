@@ -4,7 +4,7 @@
   <img src="assets/images/king-marmalade-diaper.jpg" alt="Castas Logo" width="128"/>
 </p>
 
-<h1 align="center">"Oogachaka Baby"</h1>
+<h3 align="center">"Oogachaka Baby"</h3>
 
 <p align="center">
   by<br>
@@ -16,6 +16,13 @@
 ## Idea
 
 The ["Dancing Baby"](https://en.wikipedia.org/wiki/Dancing_baby) video is one of the first internet memes that went viral in the 1990s. I felt it was the perfect idea to use for the first video in my amateur filmmaking career.
+
+<p align="center">
+<video width="480" height="270" controls>
+  <source src="assets/videos/YouTube_Dancing-Baby-Screensaver-1996_1080p.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</p>
 
 ## Technologies Used
 
