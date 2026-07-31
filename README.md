@@ -1,7 +1,7 @@
 ## 👑 King Marmalade
 
 <p align="center">
-  <img src="assets/images/king-marmalade-diaper.jpg" alt="Castas Logo" width="128"/>
+  <img src="assets/images/king-marmalade-diaper.jpg" alt="King Marmalade" width="128"/>
 </p>
 
 <h3 align="center">"Oogachaka Baby"</h3>
@@ -13,18 +13,16 @@
 
 ---
 
-## Idea
+### Idea
 
 The ["Dancing Baby"](https://en.wikipedia.org/wiki/Dancing_baby) video is one of the first internet memes that went viral in the 1990s. I felt it was the perfect idea to use for the first video in my amateur filmmaking career.
 
-<p align="center">
 <video width="480" height="270" controls>
   <source src="assets/videos/YouTube_Dancing-Baby-Screensaver-1996_1080p.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-</p>
 
-## Technologies Used
+### Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -33,7 +31,7 @@ Your browser does not support the video tag.
 | **OpenAI ChatGPT** | Prompts review |
 | **GitHub** | Repository hosting |
 
-## License
+### License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/) License.
 
